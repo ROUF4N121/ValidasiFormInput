@@ -82,5 +82,6 @@ Berikut adalah hasil eksekusi programnya:
 
 Jika Valid:
 ![Screenshot1](image/screenshot1.png)
+
 Jika Tidak Valid:
 ![Screenshot2](image/screenshot2.png)
